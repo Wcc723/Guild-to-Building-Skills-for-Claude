@@ -2,7 +2,7 @@
 
 本專案為 Anthropic 官方文件 **"The Complete Guide to Building Skills for Claude"** 的繁體中文翻譯版本。
 
-![alt text](./assets/image.png)
+![alt text](assets/image.png)
 
 ## 關於本指南
 
